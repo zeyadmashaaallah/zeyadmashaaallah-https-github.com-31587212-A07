@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - MoZe Productions</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="#">MoZe Productions</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" MoZe Production="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" MoZe Production="services.html">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" MoZe Production="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- About Section -->
+  <section id="about" class="py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h2>About MoZe Productions</h2>
+          <p>MoZe Productions is a leading multimedia production company specializing in creating captivating content for various platforms. With a team of talented professionals, we offer a wide range of services including video production, photography, graphic design, and web development.</p>
+          <p>Our mission is to deliver high-quality, innovative solutions that exceed our clients' expectations and help them achieve their goals. Whether you're a small business looking to enhance your online presence or a large corporation in need of comprehensive marketing materials, we're here to bring your vision to life.</p>
+        </div>
+        <div class="col-md-6">
+          <img src="https://via.placeholder.com/400" class="img-fluid" alt="MoZe Productions">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-4 bg-dark text-white text-center">
+    <div class="container">
+      <p>&copy; 2024 MoZe Productions. All rights reserved.</p>
+    </div>
+  </footer
